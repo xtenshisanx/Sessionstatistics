@@ -1,0 +1,5 @@
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\SessionStatistics\SessionStatistics\obj\Debug\SessionStatistics.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\SessionStatistics\SessionStatistics\obj\Debug\SessionStatistics.dll
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\SessionStatistics\SessionStatistics\obj\Debug\SessionStatistics.pdb
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\SessionStatistics\SessionStatistics.dll
+C:\Users\Simon\Downloads\PoEHUD-x64\plugins\SessionStatistics\SessionStatistics.pdb

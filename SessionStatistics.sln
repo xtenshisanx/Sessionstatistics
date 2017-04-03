@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionStatistics", "SessionStatistics\SessionStatistics.csproj", "{C51282CB-56E8-4D13-861B-A61B39C73EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51282CB-56E8-4D13-861B-A61B39C73EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51282CB-56E8-4D13-861B-A61B39C73EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51282CB-56E8-4D13-861B-A61B39C73EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51282CB-56E8-4D13-861B-A61B39C73EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
