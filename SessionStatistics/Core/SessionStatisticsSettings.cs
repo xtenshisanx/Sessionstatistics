@@ -69,10 +69,10 @@ namespace SessionStatistics.Core
         [Menu("SessionBoard", 203, 200)]
         public ToggleNode EnableSessionBoard { get; set; }
 
-        [Menu("X-Position", 300, 203)]
+        [Menu("X-Position", 400, 203)]
         public RangeNode<float> SessionBoardXPos { get; set; }
 
-        [Menu("Y-Position", 301, 203)]
+        [Menu("Y-Position", 401, 203)]
         public RangeNode<float> SessionBoardYPos { get; set; }
         #endregion
         public SessionStatisticsSettings()
